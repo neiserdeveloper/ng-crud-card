@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  API_CARD: 'https://ms-card.azurewebsites.net/api/v1/card'
 };
 
 /*

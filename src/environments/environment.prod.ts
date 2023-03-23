@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  API_CARD: 'https://ms-card.azurewebsites.net/api/v1/card'
 };
